@@ -6,11 +6,12 @@
 4. Read "javascript and jQuery" by Jon Duckett 
 
 MA excercises and challenges: 
-1. finish off the thermostat from last week. 
-2. do the bowling challenge with javascript/jquery/html/css. 
 
-3. finish the database walkthrough and do the chitter challenge. 
-4. do rock, paper, scissors challenge. 
+5. finish off the thermostat from last week. 
+6. do the bowling challenge with javascript/jquery/html/css. 
+
+7. finish the database walkthrough and do the chitter challenge. 
+8. do rock, paper, scissors challenge. 
 
 .... if time: 
 - review code for battleships Ruby and web. 
